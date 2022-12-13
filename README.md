@@ -55,7 +55,7 @@ This project focuses on answering the following questions:
 
 ## **Results**
 
-The main findings can be found at the Medium blog post I have written [here]().
+The main findings can be found at the Medium blog post I have written [here](https://medium.com/@huynguyenanh24/ibm-employee-attrition-rate-analysis-22f26f0ad75e).
 
 
 ## **Acknowledgements**
